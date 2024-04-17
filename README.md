@@ -40,10 +40,10 @@ Chúng tôi rất hoan nghênh mọi đóng góp từ cộng đồng. Nếu bạ
 
 ## Thành viên dự án
 
-1. **Nguyễn Lê Thúy Ngọc** - @ngocthuyngoc
-2. **Lê Trọng Nghĩa** - @trongnghia
-3. **Trần Minh Trung** - @minhtrung
-4. **Nguyễn Quốc Thắng** - @quocthang
+1. **Nguyễn Lê Thúy Ngọc** - 2011060698
+2. **Lê Trọng Nghĩa** - 2011062250
+3. **Trần Minh Trung** - 2011061212
+4. **Nguyễn Quốc Thắng** - 2011065009
 
 ## Liên hệ
 
