@@ -48,4 +48,4 @@ Chúng tôi rất mong được nhận phản hồi và sự hợp tác từ b�
 
 --- 
 
-![Logo](images/logo.png)
+<img src=http://i.imgur.com/qkmdJSR.png>
