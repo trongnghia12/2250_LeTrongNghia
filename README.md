@@ -48,5 +48,5 @@ Chúng tôi rất mong được nhận phản hồi và sự hợp tác từ b�
 
 --- 
 
-![Example Image](DoAn\hasaki-store\src\components\hinhanh/hinh1.png)
+![Example Image][(https://example.com/image.jpg](https://vn.pikbest.com/photo/free-best-morning-nature-pictures-%26-images_9190361.html))
 
