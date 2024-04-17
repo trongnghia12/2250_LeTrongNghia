@@ -33,7 +33,7 @@
 ## Thành viên nhóm
 
 1. **Lê Trọng Nghĩa** - @trongnghia
-2. **Nguyễn Lê Thúy Ngọc** - @ngocthuyngoc
+2. **Nguyễn Lê Thúy Ngọc** - @nngoccthuyy
 3. **Nguyễn Quốc Thắng** - @quocthang
 4. **Trần Minh Trung** - @minhtrung
 
