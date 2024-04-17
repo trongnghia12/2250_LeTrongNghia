@@ -48,6 +48,6 @@ Chúng tôi rất mong được nhận phản hồi và sự hợp tác từ b�
 
 --- 
 
-![Example Image](https://dogogiaan.com/wp-content/uploads/2023/05/hinh-anh-phat-thich-ca-dep-1.jpg)
+![Example Image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png)
 
 
