@@ -48,5 +48,5 @@ Chúng tôi rất mong được nhận phản hồi và sự hợp tác từ b�
 
 --- 
 
-![UXUI](https://imgur.com/a/UOGhOpt)
+![Example Image](DoAn\hasaki-store\src\components\hinhanh/hinh1.png)
 
