@@ -48,4 +48,4 @@ Chúng tôi rất mong được nhận phản hồi và sự hợp tác từ b�
 
 --- 
 
-Dự án được phát triển bởi [Tên Công ty hoặc Tổ chức] - © YYYY
+![Logo](images/logo.png)
