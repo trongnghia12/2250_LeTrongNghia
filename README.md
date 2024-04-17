@@ -48,4 +48,5 @@ Chúng tôi rất mong được nhận phản hồi và sự hợp tác từ b�
 
 --- 
 
-<img src=https://imgur.com/a/UOGhOpt>
+![Example Image](hinhanh/hinh1.png)
+
