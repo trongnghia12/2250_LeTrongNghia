@@ -48,5 +48,6 @@ Chúng tôi rất mong được nhận phản hồi và sự hợp tác từ b�
 
 --- 
 
-![Example Image][(https://example.com/image.jpg](https://vn.pikbest.com/photo/free-best-morning-nature-pictures-%26-images_9190361.html))
+![Example Image](https://vn.pikbest.com/photo/free-best-morning-nature-pictures-%26-images_9190361.html)
+
 
